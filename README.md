@@ -1,6 +1,6 @@
 # pythonclaw
 
-#windows下eclipse + pydev 开发简单爬虫
+# windows下eclipse + pydev 开发简单爬虫
 
 * python3.5.2下载 https://www.python.org/downloads/windows/
 * eclipse 下载 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R1/eclipse-inst-win64.exe#collapseExample
@@ -12,4 +12,9 @@
 
 * 爬虫目标 百度百科python词条下 关键字及其链接前100条
 * root_utl: http://baike.baidu.com/view/21087.htm
+* 查看结果 output.htm
+
+* 参考imooc 课程 http://www.imooc.com/learn/563
+
+* @author Adam
 
